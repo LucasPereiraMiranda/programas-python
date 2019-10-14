@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ad38ad-e6e6-48e0-98f7-a0db4d489160" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arquivos e excecoes cap 11/__excecoes__acesso__a__indice__.py" beforeDir="false" afterPath="$PROJECT_DIR$/arquivos e excecoes cap 11/__excecoes__acesso__a__indice__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes e objetos cap 12/ponto/__classe__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes e objetos cap 12/ponto/__classe__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes e objetos cap 12/ponto/__distancia__entre__dois__pontos__.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes e objetos cap 12/ponto/__distancia__entre__dois__pontos__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conjuntos de objetos cap 15/jogo_baralho/__carta__.py" beforeDir="false" afterPath="$PROJECT_DIR$/conjuntos de objetos cap 15/jogo_baralho/__carta__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Exercicio bola.py com decorator e sem decorator" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -33,6 +32,9 @@
     <option name="height" value="688" />
   </component>
   <component name="ProjectId" id="1S7SKw9waIR5fM0T4MIzcdfOTSz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -56,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__carta__">
+  <component name="RunManager" selected="Python.bola_com_decorator">
     <configuration name="Study" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,27 +72,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="__3__variaveis__" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulos iniciais 1 2 e 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulos iniciais 1 2 e 3/__3__variaveis__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,27 +143,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__pickling__" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arquivos e excecoes cap 11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos e excecoes cap 11/__pickling__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="_funcao_com_retorno_" type="PythonConfigurationType" factoryName="Python">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,6 +156,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions cap 3/_funcao_com_retorno_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bola" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes e objetos cap 12/bola" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes e objetos cap 12/bola/bola.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bola_com_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes e objetos cap 12/bola" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes e objetos cap 12/bola/bola_com_decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,19 +231,19 @@
       <item itemvalue="Python._funcao_com_retorno_" />
       <item itemvalue="Python.helloworld" />
       <item itemvalue="Python.Study" />
-      <item itemvalue="Python.__pickling__" />
-      <item itemvalue="Python.__3__variaveis__" />
       <item itemvalue="Python.__lancando__excecao__" />
       <item itemvalue="Python.__horario__atual__" />
       <item itemvalue="Python.__carta__" />
+      <item itemvalue="Python.bola" />
+      <item itemvalue="Python.bola_com_decorator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bola_com_decorator" />
+        <item itemvalue="Python.bola" />
         <item itemvalue="Python.__carta__" />
         <item itemvalue="Python.__horario__atual__" />
         <item itemvalue="Python.__lancando__excecao__" />
-        <item itemvalue="Python.__3__variaveis__" />
-        <item itemvalue="Python.__pickling__" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +258,14 @@
       <option name="presentableId" value="Default" />
       <updated>1547905098762</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix game error">
+      <created>1571080737157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571080737157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -279,5 +289,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix game error" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix game error" />
   </component>
 </project>
