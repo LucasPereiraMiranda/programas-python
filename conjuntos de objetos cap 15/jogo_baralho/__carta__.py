@@ -37,7 +37,7 @@ class Baralho:
                 self.cartas.append(Carta(naipe,posicao))
 
 
-    def __str__(self,baralho):
+    def __str__(self):
         for obj in baralho.cartas:
             print(obj)
 
@@ -80,5 +80,5 @@ baralho = Baralho()
 print("Embaralhando o baralho...")
 baralho.embaralhar()
 print('-------------------------------------------------------------')
-print(baralho.__str__(baralho))
+print(baralho.__str__())
 
